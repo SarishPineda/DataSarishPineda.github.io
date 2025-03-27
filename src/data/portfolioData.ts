@@ -24,7 +24,7 @@ export const projects: Project[] = [
       "https://example.com/dashboard2.jpg",
       "https://example.com/dashboard3.jpg"
     ],
-    tags: ["Power BI", "SQL", "Data Visualization", "Customer Analytics", "Business Intelligence"],
+    tags: ["Power BI", "SQL", "Data Visualization", "Tableu", "Business Intelligence"],
     details: {
       challenge: "The company lacked a centralized reporting system to track customer engagement, purchase patterns, and marketing campaign effectiveness.",
       solution: "Designed and implemented a Power BI dashboard integrating data from Google Analytics, CRM systems, and sales records, providing real-time insights.",
